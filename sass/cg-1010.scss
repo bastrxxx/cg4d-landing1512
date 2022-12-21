@@ -110,7 +110,7 @@ a:hover {text-decoration: none;}
   }
 }
 
-.page4{background: url(../images/bg-page4.jpg) no-repeat top center;position: relative;overflow: hidden;width: 100%;height: 1100px;
+.page4{background: url(../images/bg-page4.jpg) no-repeat top center;position: relative;overflow: hidden;width: 100%;height: 1037px;
   ul{list-style: none;display: flex;justify-content: center;align-items: center;
     a{
       &:hover{filter: brightness(120%);
@@ -130,9 +130,9 @@ a:hover {text-decoration: none;}
   }
 }
 /*==FOOTER=*/
-.footer{min-height: 271px;background: url(../images/bg-footer.jpg) no-repeat top center;background-color:#ffffff;border-top:1px solid #e3e3e3a8;
+.footer{min-height: 220px;background: url(../images/bg-footer.jpg) no-repeat top center;
   .footer-content{display: flex;flex-direction: column;align-items: center;justify-content: center;
-    p{line-height: 1;font-weight: 500;font-size: 18px;}
+    p{line-height: 1;font-weight: 500;font-size: 18px;color:#e9d4bc}
   }
 }
 @media (max-width: 2560px) {
